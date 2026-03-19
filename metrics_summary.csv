@@ -1,0 +1,11 @@
+metric,value
+total_raw_rows,8782.0
+duplicates_removed,172.0
+quarantine_rows,102.0
+core_rows,8508.0
+unique_users,1995.0
+avg_votes_per_event,6.91
+avg_votes_per_user,6.9
+median_votes,6.0
+pct_posts_top1pct,6.0
+pct_votes_top1pct,6.0
